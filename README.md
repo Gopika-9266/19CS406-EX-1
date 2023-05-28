@@ -60,8 +60,11 @@ s.send("acknowledgement recived from the server".encode())
 
 # OUTPUT:
 
+CLIENT:
+![socketprogramming](https://github.com/Gopika-9266/19CS406-EX-1/assets/122762773/3e318742-c345-4323-b9e1-7e53e44e6ea3)
 
-
+SERVER:
+![socketprogramming1](https://github.com/Gopika-9266/19CS406-EX-1/assets/122762773/0c7d19a5-3b10-43c6-ac28-5431edc3730b)
 
 # RESULT:
 Thus, the program to implement socket programming date and time display from client to
